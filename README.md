@@ -1,6 +1,6 @@
 # Hola, soy Gemima Cerpa.
 🎓 Estudiante aprendiendo programación  
-💻 Actualmente usando: Python, Java, MySQL
+💻 Actualmente usando: Python, Java, MySQL  
 🚀 Interesada en cyberseguridad y desarrollo de software
 
 ### 🛠 Tecnologías
