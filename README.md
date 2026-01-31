@@ -1,1 +1,13 @@
-# Gemima-Cerpa
+# Hola, soy Gemima Cerpa.
+🎓 Estudiante aprendiendo programación  
+💻 Actualmente usando: Python, Java, MySQL
+🚀 Interesada en cyberseguridad y desarrollo de software
+
+### 🛠 Tecnologías
+- FastAPI
+- MySQL
+- Java
+- Python
+
+### 📫 Contacto
+- GitHub: @Gemima-Cerpa
