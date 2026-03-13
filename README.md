@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Jemima%20Developer&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Gemima%20Developer&fontSize=40&fontColor=ffffff"/>
 <h1 align="center">👋 Hola, soy Gemima</h1>
 <h3 align="center">💻 Software Developer | Web Developer | cybersecurity</h3>
 
@@ -51,9 +51,9 @@ Apasionada por el desarrollo de software,la creación de aplicaciones web modern
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jemcu0820-ops&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemcu0820-ops&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -82,7 +82,7 @@ Landing page moderna y responsive para una tienda de productos deportivos.
 # 📈 Actividad
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jemcu0820-ops&theme=tokyonight"/>
 </p>
 
 ---
