@@ -10,4 +10,4 @@
 - Python
 
 ### 📫 Contacto
-- GitHub: @Gemima-Cerpa
+- GitHub: @jemcu0820-ops
